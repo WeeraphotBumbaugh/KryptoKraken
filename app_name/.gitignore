@@ -13,7 +13,6 @@ constants.js
 gitkraken-amd64.deb
 
 node_modules
-dist
 dist-ssr
 .env
 *.local
